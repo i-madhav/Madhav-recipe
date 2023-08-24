@@ -12,6 +12,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### Deployment Link
+[https://64e765657a998b0ce1e608d5--majestic-daffodil-7e9126.netlify.app/]
+
 
 
 
